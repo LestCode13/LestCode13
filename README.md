@@ -56,9 +56,8 @@ My core proficiency lies in these tools and languages, categorized for visual cl
 
 Demonstrating commitment and active development.
 
-| Metrics Card (Sleek Theme) | Top Languages (Compact & Clean) |
-| :--- | :--- |
-| <a href="https://github.com/[Your-GitHub-Username]"> <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=buefy&hide_border=true&rank_icon=title" alt="GitHub Stats" /></a> | <a href="https://github.com/[Your-GitHub-Username]"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a> |
+<a href="https://github.com/[Your-GitHub-Username]"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=buefy&hide_border=true&rank_icon=title" alt="GitHub Stats" /></a>
+<a href="https://github.com/[Your-GitHub-Username]"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a>
 
 ---
 
@@ -69,6 +68,5 @@ I am available for networking, project collaboration, and discussion on web tech
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=About.me&logoColor=white)
-
 
 ***
