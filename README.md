@@ -11,7 +11,6 @@ I am a dedicated **Full-Stack Developer** focused on crafting clean, maintainabl
 * **💡 Currently Focused On:** Advanced state management with **React** and leveraging **Tailwind CSS** for rapid, responsive UI development.
 * **🤝 Open to Collaboration:** Mentoring new developers, contributing to open-source projects, or leading development on data-driven web applications and **IoT integration projects**.
 * **❓ Ask Me About:** Optimizing basic MySQL structures, utilizing the MVC pattern in CodeIgniter, or creating custom web APIs for **hardware interaction with Arduino**.
-* **🔥 Latest Achievement:** Developed a **real-time home automation dashboard** using React/Flask to remotely control and monitor sensor data from an **Arduino-based system**.
 
 ---
 
