@@ -1,19 +1,16 @@
 # 🌐 About Me
 
-### 💻 Full-Stack Web Developer | 🛠️ Building Robust and Scalable Applications | 💡 Arduino Enthusiast
+### 💻 Full-Stack Web Developer | 🛠️ Building Robust and Scalable Applications | 💡 Physical Computing Interest
 
-I am a dedicated **Full-Stack Developer** focused on crafting clean, maintainable code across the entire development cycle. I specialize in backend frameworks like **CodeIgniter and Flask**, modern front-end integration, and transforming complex requirements into functional, high-performance software solutions, with a strong personal interest in **physical computing and IoT systems**.
+I am a dedicated **Full-Stack Developer** focused on crafting clean, maintainable code across the entire development cycle. I specialize in backend frameworks like **CodeIgniter and Flask**, modern front-end integration, and transforming complex requirements into functional, high-performance software solutions, with a strong personal interest in **physical computing and IoT systems**, particularly with **Arduino**.
 
 ---
 
 ## 🚀 Key Focus & Development Goals
 
 * **💡 Currently Focused On:** Advanced state management with **React** and leveraging **Tailwind CSS** for rapid, responsive UI development.
-* **🤝 Open to Collaboration:** Mentoring new developers, contributing to open-source projects, or leading development on data-driven web applications and **IoT integration projects**.
-* **❓ Ask Me About:** Optimizing basic MySQL structures, utilizing the MVC pattern in CodeIgniter, or creating custom web APIs for **hardware interaction with Arduino**.
-
----
-
+* **🤝 Open to Collaboration:** **Willing to share knowledge and help other developers**, contributing to open-source projects, or leading development on data-driven web applications and **IoT integration projects**.
+* **❓ Ask Me About:** Optimizing basic MySQL structures, utilizing the MVC pattern in CodeIgniter, or integrating custom web APIs with hardware like **Arduino**.
 ## 🛠️ Technology Ecosystem
 
 My core proficiency lies in these tools and languages, categorized for visual clarity and quick reference.
