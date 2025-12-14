@@ -56,8 +56,8 @@ My core proficiency lies in these tools and languages, categorized for visual cl
 
 Demonstrating commitment and active development.
 
-<a href="https://github.com/[Your-GitHub-Username]"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=buefy&hide_border=true&rank_icon=title" alt="GitHub Stats" /></a>
-<a href="https://github.com/[Your-GitHub-Username]"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a>
+<a href="https://github.com/LestCode13"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=LestCode13&show_icons=true&theme=buefy&hide_border=true&rank_icon=title" alt="GitHub Stats" /></a>
+<a href="https://github.com/LestCode13"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LestCode13&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /></a>
 
 ---
 
